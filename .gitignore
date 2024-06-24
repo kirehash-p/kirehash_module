@@ -1,0 +1,3 @@
+# pycacheは除外
+__pycache__/
+*.pyc
